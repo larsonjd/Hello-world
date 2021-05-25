@@ -14,6 +14,7 @@ Judge all you want no one is actually reading this aside from me.
 If you are reading this HI!!!
 Thank you for taking the time out of your day and reading my work.
 I hope your day is going amazing and that your life is blessed!
+If you would like to add fun ideas for me to possibly code on my journey please feel free to let me know!!
 
 Project Ideas
 
