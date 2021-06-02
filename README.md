@@ -19,5 +19,10 @@ If you would like to add fun ideas for me to possibly code on my journey please 
 Project Ideas
 
 1) DnD style game, this will be quite intensive, but I've always wanted a fully interactive automated DM
+  -uploading the entire DnD 5e handbooks into a dictionary to pull stats from and semi-randomly generated encounters
 2) A calander app
+  -Implementing a text-message-based method to ad "to-dos" and "events"
 3) An app to research good stocks to invest in
+  - Ideally it will pull data and track trends to indicate stocks that are most likely to increase over : a day, month, year, and decade
+4) Complete The Odin Project
+5) Complete the three Python courses
